@@ -29,5 +29,6 @@ see: R/rest_operations.R
 
 
 ### Usefull links:
-- https://r-pkgs.org/workflows101.html 
+- https://r-pkgs.org/workflows101.html
+- https://testthat.r-lib.org/
 - https://www.rplumber.io/
